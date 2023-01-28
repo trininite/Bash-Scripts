@@ -1,6 +1,5 @@
 #!/bin/bash
 
-echo $#
 
 if [ $# -eq 1 ]; then
 	dir_name=$1
