@@ -1,1 +1,1 @@
-/usr/bin/showFormatSpecifiers.sh
+/usr/bin/
